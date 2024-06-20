@@ -1,2 +1,2 @@
-# make-X
-MedBioinfo task - make-X
+# MedbioInfo make-X
+
